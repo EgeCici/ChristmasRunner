@@ -1,0 +1,2 @@
+C:\Users\Ege\Desktop\HC.R_Template - Christmas Runner\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+C:\Users\Ege\Desktop\HC.R_Template - Christmas Runner\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
